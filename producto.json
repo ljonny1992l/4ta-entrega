@@ -1,0 +1,29 @@
+[
+    {
+       "id": "uno",
+       "title": "Lasagna jamon y queso",
+       "description": "Masa lasagna, salsa de tomate, fetas de jamon, ajo, queso barra",
+       "price": 8400,
+       "thumbnail": "urlImage",
+       "code": "Las.jq",
+       "stock": 10
+    },
+    {
+       "id": "dos",
+       "title": "Canelones de verdura",
+       "description": "Panqueque, salsa de tomate, ricotta, espinaca",
+       "price": 8400,
+       "thumbnail": "urlImage",
+       "code": "Can.ver",
+       "stock": 10
+    },
+    {
+       "id": "tres",
+       "title": "Fideos puro huevo",
+       "description": "Harina, huevo, aceite de oliva, parmesano, ajo",
+       "price": 4800,
+       "thumbnail": "urlImage",
+       "code": "F.ph",
+       "stock": 10
+    }
+ ]
